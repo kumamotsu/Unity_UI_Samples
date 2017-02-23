@@ -1,8 +1,6 @@
 Unity_UI_Samples
 ================
 
-下記をお借りした
-
 ## Infinite Scroll
 
 無限スクロール可能なスクロールビュー 。  
